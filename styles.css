@@ -117,3 +117,8 @@ footer p + p {
 .product-detail p {
     font-size: 16px;
 }
+
+.product-detail p.price {
+    font-size: 1.25rem;
+    font-weight: 700;
+}
