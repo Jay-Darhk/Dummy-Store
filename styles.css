@@ -178,6 +178,7 @@ footer a {
 
 .contact-form input[type="email"],
 .contact-form textarea {
+    box-sizing: border-box;
     display: block;
     width: 100%;
     padding: 10px;
